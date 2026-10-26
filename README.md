@@ -1,25 +1,72 @@
 
 <div align="center">
 
-# 🌐 Awesome Learning Opportunities
+# 🌐 Mapa de Oportunidades
 
-### Certificações | Digital Badges | Bootcamps | Bolsas de Estudo
+### *Certificações | Digital Badges | Bootcamps | Bolsas de Estudo*
 
-**Um espaço para descobrir, organizar e compartilhar oportunidades de aprendizagem e desenvolvimento profissional.**
+**Uma curadoria independente de oportunidades para aprender, desenvolver competências e explorar novos caminhos profissionais.**
 
 ![Curadoria](https://img.shields.io/badge/CURADORIA-INDEPENDENTE-7C3AED?style=for-the-badge)
-![Acesso](https://img.shields.io/badge/CONSULTA-GRATUITA-16A34A?style=for-the-badge)
+![Acesso](https://img.shields.io/badge/ACESSO-GRATUITO-16A34A?style=for-the-badge)
 [![Licença](https://img.shields.io/badge/LICEN%C3%87A-MIT-2563EB?style=for-the-badge)](LICENSE)
-
----
 
 **Descubra possibilidades. Explore novos caminhos. Compartilhe conhecimento.**
 
 </div>
 
+---
+
+## Explore as oportunidades
+
+Escolha uma categoria para conhecer instituições, programas e caminhos de desenvolvimento profissional.
+
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <img src="https://api.iconify.design/lucide/award.svg?color=%23EC4899" width="18" alt="">
+        <strong>Certificações</strong>
+      </p>
+      <p>Exames oficiais, certificações profissionais e instituições certificadoras.</p>
+      <p><a href="./paginas/certificacoes.md">Explorar →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <img src="https://api.iconify.design/lucide/badge-check.svg?color=%233B82F6" width="18" alt="">
+        <strong>Digital Badges</strong>
+      </p>
+      <p>Credenciais digitais verificáveis, plataformas e organizações emissoras.</p>
+      <p><a href="./paginas/digital-badges.md">Explorar →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <img src="https://api.iconify.design/lucide/laptop.svg?color=%2322C55E" width="18" alt="">
+        <strong>Bootcamps</strong>
+      </p>
+      <p>Formações intensivas, aprendizagem prática e programas de capacitação.</p>
+      <p><a href="./paginas/bootcamps.md">Explorar →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23F59E0B" width="18" alt="">
+        <strong>Bolsas de Estudo</strong>
+      </p>
+      <p>Programas de bolsas, apoio educacional e oportunidades acadêmicas.</p>
+      <p><a href="./paginas/bolsas-de-estudo.md">Explorar →</a></p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ## Sobre o projeto
 
-O **Awesome Learning Opportunities** é uma curadoria independente de certificações, badges digitais, bootcamps e outras oportunidades de aprendizagem.
+O **Mapa de Oportunidades** é uma curadoria independente de certificações, badges digitais, bootcamps e bolsas de estudo.
 
 A proposta é reunir, em um único lugar, referências que ajudem pessoas a descobrir possibilidades de desenvolvimento pessoal, acadêmico e profissional.
 
@@ -36,27 +83,25 @@ O objetivo não é acompanhar inscrições ou divulgar oportunidades em tempo re
 
 Durante minhas experiências com mentorias, percebi que algumas dúvidas aparecem com bastante frequência.
 
-*Onde encontro certificações gratuitas?*
 
-*Como saber se uma certificação é reconhecida?*
+<table width="100%">
+  <tr>
+    <td width="67%" valign="middle">
+      <p><em>Onde encontro certificações gratuitas?</em></p>
+      <p><em>Como saber se uma certificação é reconhecida?</em></p>
+      <p><em>Existem bootcamps e programas de formação acessíveis?</em></p>
+      <p><em>Por onde começar quando quero aprender algo novo ou mudar de carreira?</em></p>
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <img src="./assets/help-me.gif" alt="Ilustração animada Help Me" width="220">
+    </td>
+  </tr>
+</table>
 
-*Existem bootcamps e programas de formação acessíveis?*
 
-*Por onde começar quando quero aprender algo novo ou mudar de carreira?*
-
-São perguntas que escuto bastante e que, em muitos momentos, eu também gostaria de ter conseguido responder com mais facilidade.
-
-Foi assim que surgiu a ideia deste repositório.
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Maryssun/awesome-learning-opportunities/main/assets/help-me.gif" alt="Ilustração animada de uma pessoa procurando ajuda no computador" width="300">
-
-<p><em>Às vezes, tudo o que precisamos é saber por onde começar.</em></p>
-
-</div>
-
+<p align="center">
+  <em>Às vezes, tudo o que precisamos é saber por onde começar.</em>
+</p>
 
 Não tenho a pretensão de reunir todas as oportunidades existentes, nem de dizer qual é o melhor caminho para cada pessoa.
 
@@ -65,23 +110,6 @@ Quero compartilhar aquilo que encontro, pesquiso e considero útil, para que out
 Este espaço também é uma forma de continuar aprendendo. Afinal, enquanto procuro respostas para ajudar alguém, descubro novas possibilidades para mim.
 
 **Se alguma informação daqui ajudar você a encontrar uma oportunidade, conhecer uma formação ou descobrir seu próximo passo, este projeto já terá cumprido seu propósito.**
-
----
-
-## Explore as oportunidades
-
-A curadoria reúne referências de diferentes tipos de aprendizagem e desenvolvimento profissional.
-
-| Categoria | O que você encontrará |
-|:---|:---|
-| **Certificações** | Organizações que oferecem certificações e exames profissionais |
-| **Digital Badges** | Plataformas e instituições que emitem credenciais digitais verificáveis |
-| **Bootcamps** | Organizações que oferecem programas intensivos e formações práticas |
-| **Bolsas de estudo** | Instituições e programas que disponibilizam oportunidades de financiamento educacional |
-| **Programas internacionais** | Iniciativas e organizações que promovem experiências educacionais internacionais |
-| **Cursos e laboratórios** | Plataformas com cursos, desafios e atividades práticas |
-
-As categorias poderão ser ampliadas conforme novas referências forem encontradas.
 
 ---
 
@@ -96,10 +124,12 @@ Para facilitar a pesquisa, utilizo algumas classificações simples.
 ![Bolsa](https://img.shields.io/badge/BOLSA-7C3AED?style=flat-square)
 ![Freemium](https://img.shields.io/badge/FREEMIUM-2563EB?style=flat-square)
 
-- **Gratuito:** oferece recursos ou oportunidades sem cobrança, conforme as condições da organização.
-- **Pago:** possui custos de participação, formação ou certificação.
-- **Bolsa:** disponibiliza possibilidades de financiamento integral ou parcial.
-- **Freemium:** combina recursos gratuitos e pagos.
+| Classificação | Significado |
+|:---|:---|
+| **Gratuito** | Oferece recursos ou oportunidades sem cobrança, conforme as condições da organização |
+| **Pago** | Possui custos de participação, formação ou certificação |
+| **Bolsa** | Disponibiliza possibilidades de financiamento integral ou parcial |
+| **Freemium** | Combina recursos gratuitos e pagos |
 
 Essas classificações servem como orientação geral. Os custos e benefícios podem variar conforme o programa.
 
@@ -238,22 +268,34 @@ Consulte o arquivo [LICENSE](LICENSE) para conhecer as condições completas.
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/92697749?v=4" alt="Dayanne Maryssol" width="115">
+<a href="https://github.com/Maryssun">
+  <img src="https://avatars.githubusercontent.com/u/92697749?v=4" width="120" alt="Dayanne Maryssol">
+</a>
 
-### [Dayanne Maryssol](https://github.com/Maryssun)
+### Dayanne Maryssol
 
-*Criadora e mantenedora do Awesome Learning Opportunities*
+**Criadora do Mapa de Oportunidades**
 
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maryssun)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayannemaryssol/)
-[![Gmail](https://img.shields.io/badge/Gmail-475569?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryssol.dayanne@gmail.com)
-
+<p>
+  <a href="https://github.com/Maryssun">
+    <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/dayannemaryssol/">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:maryssol.dayanne@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <em>“Se queremos que a tecnologia sirva à sociedade, precisamos construir sistemas acessíveis a todas as pessoas.”</em>
+</p>
 
-*Acredito que o conhecimento só cresce quando é compartilhado.*
+<p align="center">
+  <strong>Anita Borg</strong>
+</p>
 
 </div>
-
