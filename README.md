@@ -48,16 +48,15 @@ São perguntas que escuto bastante e que, em muitos momentos, eu também gostari
 
 Foi assim que surgiu a ideia deste repositório.
 
+
 <div align="center">
 
-<!-- ESPAÇO RESERVADO PARA SUA ILUSTRAÇÃO -->
-<!-- Adicione sua imagem em assets/help-me.png -->
+<img src="https://raw.githubusercontent.com/Maryssun/awesome-learning-opportunities/main/assets/help-me.gif" alt="Ilustração animada de uma pessoa procurando ajuda no computador" width="300">
 
-<img src="assets/help-me.png" alt="Ilustração de uma pessoa procurando ajuda em frente ao computador" width="300">
-
-*Às vezes, tudo o que precisamos é saber por onde começar.*
+<p><em>Às vezes, tudo o que precisamos é saber por onde começar.</em></p>
 
 </div>
+
 
 Não tenho a pretensão de reunir todas as oportunidades existentes, nem de dizer qual é o melhor caminho para cada pessoa.
 
