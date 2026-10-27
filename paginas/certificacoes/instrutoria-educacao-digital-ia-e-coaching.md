@@ -41,6 +41,42 @@ A IAF mantém um programa internacional de reconhecimento e certificação de fa
 
 **Observação:** MCT é uma credencial profissional de instrutor, não um exame independente. A admissão exige certificação técnica qualificadora, comprovação de competências instrucionais e cumprimento dos requisitos do programa.
 
+### APMG International — Facilitation
+
+A APMG International oferece certificações profissionais voltadas à preparação, condução e avaliação de atividades de facilitação.
+
+| Certificação | O que avalia | Nível |
+|:---|:---|:---:|
+| [APMG Facilitation Foundation](https://apmg-international.com/product/facilitation-training-and-certification) | Fundamentos da facilitação, preparação de sessões, processos participativos e técnicas de trabalho em grupo | 🟢 |
+| [APMG Facilitation Practitioner](https://apmg-international.com/product/facilitation-training-and-certification) | Aplicação prática de técnicas de facilitação, condução de grupos e gerenciamento de situações complexas | 🟡 |
+
+**Observação:** Foundation e Practitioner possuem exames oficiais. O nível Practitioner exige conhecimentos e competências mais aprofundados.
+
+### ICAgile — Agile Coaching and Facilitation
+
+A ICAgile mantém certificações profissionais relacionadas à facilitação, coaching de equipes e transformação organizacional.
+
+| Certificação | O que avalia | Nível |
+|:---|:---|:---:|
+| [ICP-ATF — Agile Team Facilitation](https://www.icagile.com/track/agile-team-coaching) | Facilitação de equipes, colaboração, planejamento de sessões e técnicas participativas | 🟡 |
+| [ICP-ACC — Agile Coaching](https://www.icagile.com/track/agile-team-coaching) | Coaching de equipes, mentoria, facilitação e desenvolvimento de competências ágeis | 🟡 |
+| [ICE-AC — ICAgile Certified Expert in Agile Coaching](https://www.icagile.com/track/agile-team-coaching) | Competências avançadas de coaching ágil, experiência profissional e avaliação especializada | 🔴 |
+| [ICP-ENT — Enterprise Agile Coaching](https://www.icagile.com/certification/enterprise-agile-coaching) | Coaching organizacional, cultura, estruturas empresariais e desenvolvimento de lideranças | 🔴 |
+| [ICP-CAT — Coaching Agile Transformations](https://www.icagile.com/certification/coaching-agile-transformations) | Coaching de transformação organizacional, mudanças culturais e desenvolvimento de capacidades | 🔴 |
+| [ICE-EC — ICAgile Certified Expert in Enterprise Coaching](https://www.icagile.com/track/enterprise-agile-coaching) | Competências avançadas de coaching empresarial, experiência profissional e transformação organizacional | 🔴 |
+
+**Observação:** as certificações ICP são concedidas mediante formação credenciada e avaliação de competências. As credenciais ICE exigem processos avançados de avaliação e demonstração de experiência profissional. Não são necessariamente obtidas por exame padronizado independente.
+
+### Scrum Alliance — Agile Facilitation
+
+A Scrum Alliance oferece certificações profissionais relacionadas à facilitação e ao desenvolvimento de equipes ágeis.
+
+| Certificação | O que avalia | Nível |
+|:---|:---|:---:|
+| [CAF — Certified Agile Facilitator](https://support.scrumalliance.org/hc/en-us/categories/201260536-Certification-and-Microcredential-Questions) | Facilitação de equipes, colaboração, condução de encontros, tomada de decisão e processos participativos | 🟡 |
+
+**Observação:** a CAF é vinculada ao programa de certificação da Scrum Alliance e possui requisitos próprios de formação e avaliação.
+
 ---
 
 ## Educação Digital
