@@ -57,6 +57,21 @@ Esta curadoria reúne certificações oficiais de fabricantes e organismos certi
 | [CCNP Data Center](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/data-center/index.html) | Infraestrutura de data centers, redes, computação, automação e operação | 🔴 |
 | [CCIE Data Center](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/data-center/index.html) | Arquitetura, implantação e solução avançada de problemas em data centers | 🔴 |
 
+### HPE Juniper Networking
+
+A Juniper mantém certificações profissionais em redes corporativas, sistemas Junos e automação de infraestrutura.
+
+| Certificação | O que avalia | Nível |
+|:---|:---|:---:|
+| [JNCIA-Junos — Junos Associate](https://www.juniper.net/us/en/training/certification/tracks.html) | Fundamentos de redes, sistema operacional Junos, roteamento e switching | 🟢 |
+| [JNCIS-ENT — Enterprise Routing and Switching Specialist](https://www.juniper.net/us/en/training/certification/tracks.html) | Configuração e operação de redes corporativas, roteamento e switching | 🟡 |
+| [JNCIP-ENT — Enterprise Routing and Switching Professional](https://www.juniper.net/us/en/training/certification/tracks.html) | Roteamento avançado, protocolos, implantação e solução de problemas | 🔴 |
+| [JNCIE-ENT — Enterprise Routing and Switching Expert](https://www.juniper.net/us/en/training/certification/tracks.html) | Projeto, implantação e diagnóstico de redes corporativas complexas | 🔴 |
+| [JNCIA-DevOps — Automation and DevOps Associate](https://www.juniper.net/us/en/training/certification/tracks.html) | Fundamentos de automação de redes, APIs, ferramentas e práticas DevOps | 🟢 |
+| [JNCIS-DevOps — Automation and DevOps Specialist](https://www.juniper.net/us/en/training/certification/tracks.html) | Automação de redes, integração de ferramentas, APIs e operações programáveis | 🟡 |
+
+**Observação:** as trilhas Juniper podem exigir certificações anteriores e possuem políticas próprias de validade e renovação.
+
 ### CompTIA
 
 | Certificação | O que avalia | Nível |
@@ -94,6 +109,22 @@ Esta curadoria reúne certificações oficiais de fabricantes e organismos certi
 | [HashiCorp Certified: Vault Operations Professional](https://developer.hashicorp.com/certifications) | Administração avançada, operação e manutenção de ambientes Vault | 🔴 |
 
 **Observação:** confirme as versões dos exames e os nomes vigentes no catálogo HashiCorp. Credenciais voltadas exclusivamente à segurança podem ser mantidas na página Segurança da Informação.
+
+---
+
+## Git, CI/CD e Plataformas DevOps
+
+### GitLab
+
+A GitLab oferece programas de certificação relacionados ao uso de sua plataforma, controle de versões e automação de pipelines.
+
+| Certificação | O que avalia | Nível |
+|:---|:---|:---:|
+| [GitLab Certified Fundamentals Associate](https://university.gitlab.com/pages/certifications/) | Fundamentos de GitLab, projetos, issues, merge requests e colaboração | 🟢 |
+| [GitLab Certified Git Associate](https://university.gitlab.com/pages/certifications/) | Controle de versões Git, branches, commits, merges e colaboração em repositórios | 🟢 |
+| [GitLab Certified CI/CD Associate](https://university.gitlab.com/pages/certifications/) | Criação e execução de pipelines, integração contínua, entrega contínua e automação | 🟡 |
+
+**Observação:** verifique no catálogo GitLab University a modalidade de avaliação de cada credencial. Alguns programas combinam avaliações de conhecimento e atividades práticas.
 
 ---
 
@@ -190,6 +221,35 @@ Esta curadoria reúne certificações oficiais de fabricantes e organismos certi
 
 **Observação:** os nomes das credenciais VMware podem variar conforme a versão do programa de certificação Broadcom.
 
+### Nutanix
+
+A Nutanix mantém certificações profissionais relacionadas à infraestrutura hiperconvergente, virtualização, armazenamento e automação de ambientes corporativos.
+
+| Certificação | O que avalia | Nível |
+|:---|:---|:---:|
+| [NCA — Nutanix Certified Associate](https://www.nutanix.com/support-services/training-certification/certifications) | Fundamentos da plataforma Nutanix, componentes e operações básicas | 🟢 |
+| [NCP-MCI — Nutanix Certified Professional — Multicloud Infrastructure](https://www.nutanix.com/support-services/training-certification/certifications) | Administração de infraestrutura Nutanix, clusters, armazenamento e operações | 🟡 |
+| [NCM-MCI — Nutanix Certified Master — Multicloud Infrastructure](https://www.nutanix.com/support-services/training-certification/certifications) | Administração avançada, otimização, desempenho e diagnóstico de infraestrutura | 🔴 |
+| [NCP-US — Nutanix Certified Professional — Unified Storage](https://www.nutanix.com/support-services/training-certification/certifications) | Armazenamento corporativo, arquivos, objetos, volumes e operações | 🟡 |
+| [NCP-MCA — Nutanix Certified Professional — Multicloud Automation](https://www.nutanix.com/support-services/training-certification/certifications) | Automação de infraestrutura, provisionamento e gerenciamento de serviços | 🟡 |
+| [NPX — Nutanix Platform Expert](https://www.nutanix.com/support-services/training-certification/certifications) | Arquitetura de soluções de infraestrutura corporativa complexa e validação técnica avançada | 🔴 |
+
+**Observação:** a Nutanix possui diferentes níveis de certificação e requisitos específicos. A credencial NPX envolve avaliação avançada de competências de arquitetura.
+
+---
+
+## Infraestrutura de Nuvem Privada
+
+### OpenInfra Foundation — OpenStack
+
+O OpenStack é uma plataforma de código aberto para criação e operação de infraestrutura de nuvem privada e pública.
+
+| Certificação | O que avalia | Nível |
+|:---|:---|:---:|
+| [COA — Certified OpenStack Administrator](https://www.openstack.org/coa/) | Administração de ambientes OpenStack, instâncias, redes, armazenamento, identidade e operações | 🟡 |
+
+**Observação:** por estar relacionada diretamente à administração de infraestrutura, a COA foi incluída nesta página. Caso também apareça na categoria Cloud Computing, mantenha apenas uma entrada e utilize um link entre as páginas.
+
 ---
 
 ## Sobre esta curadoria
@@ -198,7 +258,7 @@ Esta curadoria reúne certificações oficiais de fabricantes e organismos certi
 - **O que avalia:** resumo dos principais conhecimentos e competências associados à certificação.
 - **Links:** direcionam às páginas oficiais das certificações ou aos catálogos das instituições.
 - **Pré-requisitos:** algumas certificações exigem experiência profissional, exames anteriores, treinamento ou avaliação prática.
-- **Escopo:** certificações profissionais de infraestrutura, redes, Linux, DevOps, automação, containers, Kubernetes, plataformas e observabilidade.
+- **Escopo:** certificações profissionais de infraestrutura, redes, Linux, DevOps, automação, containers, Kubernetes, plataformas, virtualização e observabilidade.
 - **Organização:** certificações específicas de provedores de nuvem pertencem à página Cloud Computing. Certificações especializadas em segurança pertencem à página Segurança da Informação quando não estiverem diretamente relacionadas à operação de infraestrutura.
 - **Atualizações:** nomes, versões, requisitos e disponibilidade dos exames podem mudar.
 
@@ -215,6 +275,8 @@ As informações desta página refletem os programas identificados na data de pu
 <sub>Consulte sempre os links oficiais antes de realizar sua inscrição.</sub>
 
 </div>
+
+<sub>Algumas credenciais desta curadoria ainda requerem confirmação individual de disponibilidade e nomenclatura no catálogo oficial.</sub>
 
 ---
 
