@@ -1,7 +1,7 @@
 
 # Desenvolvimento e Engenharia de Software
 
-Certificações profissionais em engenharia de software, arquitetura de aplicações, frameworks, desenvolvimento de sistemas, testes, automação de testes, qualidade e engenharia de requisitos.
+Certificações profissionais em engenharia de software, arquitetura de aplicações, modelagem de sistemas, frameworks, desenvolvimento de aplicações, testes, automação de testes, qualidade e engenharia de requisitos.
 
 Esta curadoria reúne certificações de organismos internacionais, fabricantes e instituições especializadas, organizadas por área de atuação.
 
@@ -22,7 +22,38 @@ O iSAQB mantém o programa Certified Professional for Software Architecture (CPS
 | [CPSA-F — Certified Professional for Software Architecture Foundation Level](https://www.isaqb.org/) | Fundamentos de arquitetura, requisitos de qualidade, decisões arquiteturais, documentação e comunicação técnica | 🟡 |
 | [CPSA-A — Certified Professional for Software Architecture Advanced Level](https://www.isaqb.org/) | Arquitetura avançada, análise de sistemas complexos, decisões técnicas e avaliação de qualidade | 🔴 |
 
-**Observação:** a certificação CPSA-A possui requisitos específicos de experiência, formação e avaliação. Os módulos avançados não são certificações independentes.
+**Observação:** CPSA-A possui requisitos específicos de experiência, formação e avaliação. Os módulos avançados não são certificações independentes.
+
+---
+
+## Modelagem e Arquitetura de Sistemas
+
+### OMG — Object Management Group
+
+A OMG mantém o programa OMG Certified UML Professional 2 (OCUP 2), voltado à modelagem de sistemas utilizando Unified Modeling Language (UML).
+
+| Certificação | O que avalia | Nível |
+|:---|:---|:---:|
+| [OCUP 2 Foundation](https://www.omg.org/certification/uml/) | Fundamentos de UML, diagramas estruturais e comportamentais, elementos e relacionamentos | 🟢 |
+| [OCUP 2 Intermediate](https://www.omg.org/certification/uml/) | Modelagem de sistemas complexos, estruturas avançadas e interpretação de diagramas UML | 🟡 |
+| [OCUP 2 Advanced](https://www.omg.org/certification/uml/) | Modelagem avançada, metamodelagem, estruturas complexas e domínio aprofundado de UML | 🔴 |
+
+**Observação:** os níveis são progressivos. A OMG estabelece requisitos de aprovação nos níveis anteriores para os exames Intermediate e Advanced.
+
+---
+
+## Engenharia de Software Ágil
+
+### Scaled Agile
+
+A Scaled Agile mantém certificações relacionadas à engenharia, arquitetura e desenvolvimento de soluções em ambientes que utilizam o Scaled Agile Framework (SAFe).
+
+| Certificação | O que avalia | Nível |
+|:---|:---|:---:|
+| [SAFe Agile Software Engineer (ASE)](https://scaledagile.com/certification/safe-agile-software-engineer/) | Engenharia ágil, qualidade de código, desenvolvimento orientado a testes, integração e entrega contínua | 🟡 |
+| [SAFe Architect (ARCH)](https://scaledagile.com/certification/safe-for-architects/) | Arquitetura ágil, alinhamento técnico, arquitetura de soluções e desenvolvimento de sistemas em escala | 🔴 |
+
+**Observação:** as certificações SAFe podem envolver treinamento oficial e avaliação. Consulte os requisitos específicos do programa.
 
 ---
 
@@ -63,11 +94,11 @@ O ISTQB mantém um programa internacional de certificações em testes de softwa
 
 | Certificação | O que avalia | Nível |
 |:---|:---|:---:|
-| [CTFL — Certified Tester Foundation Level](https://www.istqb.org/certifications/) | Fundamentos de testes, ciclo de vida, técnicas de teste, gerenciamento de defeitos e qualidade de software | 🟢 |
-| [CTFL-AT — Agile Tester](https://www.istqb.org/certifications/) | Testes em ambientes ágeis, colaboração, planejamento e práticas de qualidade | 🟡 |
-| [CTAL-TA — Advanced Level Test Analyst](https://www.istqb.org/certifications/) | Análise de testes, técnicas de projeto, testes funcionais e avaliação da qualidade | 🔴 |
-| [CTAL-TTA — Advanced Level Technical Test Analyst](https://www.istqb.org/certifications/) | Testes técnicos, análise estática, testes estruturais e atributos técnicos de qualidade | 🔴 |
-| [CTAL-TM — Advanced Level Test Management](https://www.istqb.org/certifications/) | Planejamento, monitoramento, controle, riscos e gestão de atividades de testes | 🔴 |
+| [CTFL — Certified Tester Foundation Level](https://istqb.org/certifications/) | Fundamentos de testes, ciclo de vida, técnicas de teste, gerenciamento de defeitos e qualidade de software | 🟢 |
+| [CTFL-AT — Agile Tester](https://istqb.org/certifications/) | Testes em ambientes ágeis, colaboração, planejamento e práticas de qualidade | 🟡 |
+| [CTAL-TA — Advanced Level Test Analyst](https://istqb.org/certifications/) | Análise de testes, técnicas de projeto, testes funcionais e avaliação da qualidade | 🔴 |
+| [CTAL-TTA — Advanced Level Technical Test Analyst](https://istqb.org/certifications/) | Testes técnicos, análise estática, testes estruturais e atributos técnicos de qualidade | 🔴 |
+| [CTAL-TM — Advanced Level Test Management](https://istqb.org/certifications/) | Planejamento, monitoramento, controle, riscos e gestão de atividades de testes | 🔴 |
 
 ---
 
@@ -77,10 +108,11 @@ O ISTQB mantém um programa internacional de certificações em testes de softwa
 
 | Certificação | O que avalia | Nível |
 |:---|:---|:---:|
-| [CTAL-TAE — Advanced Level Test Automation Engineering](https://www.istqb.org/certifications/) | Arquitetura, desenvolvimento, implementação e manutenção de soluções de automação de testes | 🔴 |
-| [CT-ATT — Agile Technical Tester](https://www.istqb.org/certifications/) | Testes técnicos em ambientes ágeis, automação, integração contínua e práticas de qualidade | 🟡 |
+| [CTAL-TAE — Advanced Level Test Automation Engineering](https://istqb.org/certifications/) | Arquitetura, desenvolvimento, implementação e manutenção de soluções de automação de testes | 🔴 |
+| [CT-ATT — Agile Technical Tester](https://istqb.org/certifications/) | Testes técnicos em ambientes ágeis, automação, integração contínua e práticas de qualidade | 🟡 |
+| [CT-TAS — Test Automation Strategy](https://istqb.org/certifications/certified-tester-test-automation-strategy-ct-tas/) | Estratégia de automação, planejamento, custos, riscos, métricas e implantação organizacional | 🟡 |
 
-**Observação:** a nomenclatura e a versão dos exames de automação podem variar conforme o programa ISTQB vigente.
+**Observação:** as certificações de automação possuem requisitos e versões próprios. Consulte o programa ISTQB para confirmar a versão vigente.
 
 ---
 
@@ -90,15 +122,19 @@ O ISTQB mantém um programa internacional de certificações em testes de softwa
 
 | Certificação | O que avalia | Nível |
 |:---|:---|:---:|
-| [CT-MAT — Mobile Application Testing](https://www.istqb.org/certifications/) | Testes de aplicativos móveis, compatibilidade, dispositivos e plataformas móveis | 🟡 |
-| [CT-PT — Performance Testing](https://www.istqb.org/certifications/) | Testes de desempenho, carga, estresse, métricas e identificação de gargalos | 🟡 |
-| [CT-UT — Usability Testing](https://www.istqb.org/certifications/) | Avaliação de usabilidade e testes centrados nas pessoas | 🟡 |
-| [CT-MBT — Model-Based Tester](https://www.istqb.org/certifications/) | Modelagem de testes, geração de casos e modelos de comportamento | 🟡 |
-| [CT-AcT — Acceptance Testing](https://www.istqb.org/certifications/) | Critérios de aceitação, testes de aceitação e colaboração entre equipes técnicas e áreas de negócio | 🟡 |
-| [CT-AI — AI Testing](https://www.istqb.org/certifications/) | Testes de sistemas baseados em inteligência artificial e uso de IA nas atividades de teste | 🟡 |
-| [CT-ATLaS — Agile Test Leadership at Scale](https://www.istqb.org/certifications/) | Liderança de testes em organizações ágeis, estratégia de qualidade e coordenação em escala | 🔴 |
+| [CT-MAT — Mobile Application Testing](https://istqb.org/certifications/) | Testes de aplicativos móveis, compatibilidade, dispositivos e plataformas móveis | 🟡 |
+| [CT-PT — Performance Testing](https://istqb.org/certifications/) | Testes de desempenho, carga, estresse, métricas e identificação de gargalos | 🟡 |
+| [CT-UT — Usability Testing](https://istqb.org/certifications/) | Avaliação de usabilidade e testes centrados nas pessoas | 🟡 |
+| [CT-MBT — Model-Based Tester](https://istqb.org/certifications/) | Modelagem de testes, geração de casos e modelos de comportamento | 🟡 |
+| [CT-AcT — Acceptance Testing](https://istqb.org/certifications/) | Critérios de aceitação, testes de aceitação e colaboração entre equipes técnicas e áreas de negócio | 🟡 |
+| [CT-AI — AI Testing](https://istqb.org/certifications/certified-tester-ai-testing-ct-ai/) | Testes de sistemas baseados em inteligência artificial, qualidade de modelos e avaliação de sistemas de IA | 🟡 |
+| [CT-ATLaS — Agile Test Leadership at Scale](https://istqb.org/certifications/) | Liderança de testes em organizações ágeis, estratégia de qualidade e coordenação em escala | 🔴 |
+| [CT-FT — Finance Testing](https://istqb.org/certifications/certified-tester-finance-testing-ct-ft/) | Testes de sistemas financeiros, conformidade regulatória, riscos, integridade de dados e automação | 🟡 |
+| [CT-AuT — Automotive Software Tester](https://istqb.org/certifications/) | Testes de software automotivo, sistemas embarcados, normas e requisitos do setor | 🟡 |
+| [CT-GaMe — Game Testing](https://istqb.org/certifications/certified-tester-game-testing-ct-game/) | Testes de jogos, mecânicas, gráficos, áudio, localização e experiência do jogador | 🟡 |
+| [CT-GenAI — Testing with Generative AI](https://istqb.org/certifications/gen-ai/) | Aplicação de IA generativa em testes, engenharia de prompts, automação e avaliação de riscos | 🟡 |
 
-**Observação:** certificações especializadas podem exigir a certificação Foundation Level ou outros pré-requisitos definidos pelo ISTQB.
+**Observação:** as certificações especializadas podem exigir CTFL ou outros pré-requisitos estabelecidos pelo ISTQB.
 
 ---
 
@@ -108,9 +144,23 @@ O ISTQB mantém um programa internacional de certificações em testes de softwa
 
 | Certificação | O que avalia | Nível |
 |:---|:---|:---:|
-| [CT-SEC — Security Tester](https://www.istqb.org/certifications/) | Testes de segurança, identificação de vulnerabilidades e avaliação de controles em aplicações | 🟡 |
+| [CT-SEC — Security Tester](https://istqb.org/certifications/) | Testes de segurança, identificação de vulnerabilidades e avaliação de controles em aplicações | 🟡 |
 
 **Observação:** certificações especializadas em segurança também podem aparecer na categoria Segurança da Informação. Para evitar duplicações, mantenha cada exame em apenas uma página.
+
+---
+
+## Gestão Avançada e Melhoria de Testes
+
+### ISTQB — Expert Level
+
+O programa Expert Level do ISTQB é direcionado a profissionais experientes em gestão, avaliação e melhoria de processos de teste.
+
+| Certificação | O que avalia | Nível |
+|:---|:---|:---:|
+| [CTEL-ITP-ATP — Expert Level Assessing Test Processes](https://istqb.org/certifications/) | Avaliação de processos de teste, maturidade, diagnóstico organizacional e oportunidades de melhoria | 🔴 |
+
+**Observação:** certificações Expert Level podem possuir requisitos de experiência e certificações anteriores. Confirme a estrutura e a disponibilidade do exame.
 
 ---
 
@@ -162,42 +212,13 @@ A ASQ oferece certificações profissionais em qualidade, confiabilidade e melho
 
 ---
 
-## Outras Tecnologias de Desenvolvimento
-
-Alguns frameworks e plataformas possuem grande relevância profissional, mas não foi identificada nesta curadoria uma certificação oficial específica e universal da tecnologia.
-
-| Tecnologia | Situação |
-|:---|:---|
-| React | Sem certificação oficial específica confirmada |
-| Angular | Sem certificação oficial específica confirmada |
-| Vue.js | Sem certificação oficial específica confirmada |
-| Next.js | Sem certificação oficial específica confirmada |
-| Nuxt | Sem certificação oficial específica confirmada |
-| Django | Sem certificação oficial específica confirmada |
-| FastAPI | Sem certificação oficial específica confirmada |
-| Flask | Sem certificação oficial específica confirmada |
-| Laravel | Programas independentes exigem validação |
-| Flutter | Sem certificação oficial específica confirmada |
-| Express.js | Sem certificação oficial específica confirmada |
-| NestJS | Sem certificação oficial específica confirmada |
-| Ruby on Rails | Sem certificação oficial específica confirmada |
-| ASP.NET Core | Certificações Microsoft podem avaliar desenvolvimento na plataforma, mas não necessariamente o framework isoladamente |
-| Hibernate | Sem certificação oficial específica confirmada |
-| Quarkus | Sem certificação oficial específica confirmada |
-
-**Importante:** a ausência de uma certificação nesta lista não significa que não existam exames independentes. Significa que não foi identificada uma credencial suficientemente verificada para inclusão.
-
-Certificados de conclusão de cursos e badges de aprendizagem não são apresentados como certificações profissionais independentes.
-
----
-
 ## Sobre esta curadoria
 
 - **Nível:** classificação orientativa de dificuldade, não necessariamente o nível oficial da instituição.
 - **O que avalia:** resumo dos principais conhecimentos e competências associados à certificação.
 - **Links:** direcionam às páginas oficiais das certificações ou aos catálogos das instituições.
 - **Pré-requisitos:** algumas certificações exigem experiência profissional, exames anteriores, treinamento ou avaliação prática.
-- **Escopo:** certificações profissionais relacionadas à engenharia, arquitetura, frameworks, testes, requisitos e qualidade de software.
+- **Escopo:** certificações profissionais relacionadas à engenharia, arquitetura, modelagem, frameworks, testes, requisitos e qualidade de software.
 - **Organização:** certificações específicas de linguagens de programação pertencem à página Linguagens de Programação. Certificações de Cloud, DevOps, Segurança, Dados e Inteligência Artificial permanecem em suas respectivas categorias.
 - **Atualizações:** nomes, versões, requisitos e disponibilidade dos exames podem mudar.
 
